@@ -1,0 +1,23 @@
+name: funnel
+favicon: null
+layout_spectrum: 0.8164697452448308
+typography_spectrum: 0.5516845085658133
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6978749400004745
+  lightness: 0.5233232071623206
+  saturation: 0.6798293269239366
+  rhythmicContrast: 0.10914354328997433
+purpose: []
