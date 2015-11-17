@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[funnel]]></title>
+        <description><![CDATA[funnel]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 17 Nov 2015 16:01:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[If you can write a document on Word, you can design a responsive website]]></title>
+            <description><![CDATA[<article><h1>If you can write a document on Word, you can design a responsive website</h1><p>Designing a website to be responsive - so you can view it on phones, tablets, screens and laptops - doesn't have to be scary, tough or challenging.  </p></article>]]></description>
+            <link>undefinedif-you-can-write-a-document-on-word-you-can-design-a-respon/index.html</link>
+            <guid isPermaLink="false">db0b3685-2027-48ad-a44f-3f482bd3f0d2</guid>
+            <pubDate>Tue, 17 Nov 2015 16:01:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
