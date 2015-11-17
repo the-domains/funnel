@@ -2,6 +2,7 @@ name: funnel
 favicon: null
 layout_spectrum: 0.8164697452448308
 typography_spectrum: 0.5516845085658133
+title: Marketing Funnel
 cta:
   domain: null
   bucket: null
